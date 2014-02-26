@@ -5,7 +5,6 @@
 // @include     http://www.reddit.com/r/fatpeoplestories/comments/*
 // @version     0.1
 // @grant       none
-// @require     http://code.jquery.com/jquery-1.11.0.min.js
 // ==/UserScript==
 // If greasemonkey the above will be used
 $(function () {
